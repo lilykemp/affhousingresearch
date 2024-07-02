@@ -1,0 +1,936 @@
+GEOID,Submarket
+08035014300,Highlands Ranch
+08035014107,Highlands Ranch
+08035013904,Parker - Lone Tree
+08035014503,Castle Rock
+08035014108,Highlands Ranch
+08035013909,Castle Rock
+08035014115,Parker - Lone Tree
+08035014116,Parker - Lone Tree
+08035014123,Castle Rock
+08035013905,Parker - Lone Tree
+08035014146,Highlands Ranch
+08014030200,Broomfield
+08035014504,Castle Rock
+08005007103,Aurora - Northeast
+08005080500,Aurora - South
+08005083900,Aurora - South
+08013013703,Boulder
+08013013705,Boulder
+08013013706,Boulder
+08059009901,Golden
+08059010001,Golden
+08013012206,Boulder
+08013012107,Boulder
+08013013214,Longmont
+08013013215,Longmont
+08035013912,Parker - Lone Tree
+08035013913,Parker - Lone Tree
+08035014144,Highlands Ranch
+08035014142,Castle Rock
+08035014141,Castle Rock
+08035013914,Parker - Lone Tree
+08035013915,Parker - Lone Tree
+08035014143,Highlands Ranch
+08035014410,Castle Rock
+08035014407,Castle Rock
+08035014017,Castle Rock
+08035014409,Castle Rock
+08035014206,Highlands Ranch
+08035014408,Castle Rock
+08035014207,Highlands Ranch
+08035014208,Highlands Ranch
+08035014145,Highlands Ranch
+08035014205,Highlands Ranch
+08013012205,Boulder
+08035014015,Centennial - East
+08035014014,Centennial - East
+08035014016,Castle Rock
+08013013704,Boulder
+08013060801,Lafayette - Louisville
+08013012802,Lafayette - Louisville
+08013060601,Lafayette - Louisville
+08013060602,Lafayette - Louisville
+08013012207,Boulder
+08013012208,Boulder
+08013012801,Lafayette - Louisville
+08013060802,Lafayette - Louisville
+08013012106,Boulder
+08013012610,Boulder
+08013012609,Boulder
+08069001812,Loveland
+08069001714,Loveland
+08069002403,Fort Collins - North
+08069001904,Loveland
+08069001905,Loveland
+08069002505,Fort Collins - South
+08069001713,Loveland
+08069001710,Loveland
+08069001711,Loveland
+08001008561,Thornton
+08069001810,Loveland
+08001008553,Brighton
+08001060002,Thornton
+08001008552,Brighton
+08001008354,Denver - Airport
+08001008557,Brighton
+08001008556,Brighton
+08069002506,Fort Collins - South
+08001008560,Thornton
+08001008355,Aurora - Central
+08001060001,Broomfield
+08001008555,Thornton
+08001008554,Thornton
+08001008558,Brighton
+08001008559,Brighton
+08001008562,Brighton
+08001009004,Thornton
+08001008564,Brighton
+08001008563,Brighton
+08001009003,Thornton
+08001008565,Brighton
+08069001813,Fort Collins - South
+08069002507,Fort Collins - North
+08069002504,Fort Collins - North
+08069002508,Fort Collins - North
+08069002602,Loveland
+08069002404,Fort Collins - North
+08069002804,Loveland
+08069002805,Loveland
+08069001712,Loveland
+08069001715,Loveland
+08069002601,Loveland
+08069001811,Loveland
+08035013907,Parker - Lone Tree
+08035014602,Castle Rock
+08014030800,Broomfield
+08014031300,Broomfield
+08013013004,Lafayette - Louisville
+08001009604,Westminster
+08031002101,Denver - Central
+08013013503,Longmont
+08013012104,Boulder
+08013012101,Boulder
+08013012105,Boulder
+08013012204,Boulder
+08013012300,Boulder
+08013012501,Boulder
+08013012505,Boulder
+08013012507,Boulder
+08013012508,Boulder
+08013012509,Boulder
+08013012511,Boulder
+08013012603,Boulder
+08013012701,Boulder
+08014031401,Broomfield
+08014031201,Broomfield
+08014031202,Broomfield
+08014031102,Broomfield
+08014031104,Broomfield
+08014031402,Broomfield
+08014031101,Broomfield
+08014031403,Broomfield
+08014031103,Westminster
+08013012705,Boulder
+08013012708,Boulder
+08013012709,Lafayette - Louisville
+08013012903,Lafayette - Louisville
+08013012904,Lafayette - Louisville
+08013012905,Lafayette - Louisville
+08013060900,Lafayette - Louisville
+08013012907,Lafayette - Louisville
+08013013003,Lafayette - Louisville
+08031004404,Denver - Northeast
+08031004403,Denver - Northeast
+08013013005,Lafayette - Louisville
+08013013006,Lafayette - Louisville
+08013013205,Longmont
+08013013207,Longmont
+08031003701,Denver - City Park - Cherry Creek
+08031003702,Denver - City Park - Cherry Creek
+08031003703,Denver - City Park - Cherry Creek
+08031003901,Denver - City Park - Cherry Creek
+08031004102,Denver - Northeast
+08031004103,Denver - Northeast
+08031004104,Denver - Northeast
+08005082300,Aurora - South
+08005080800,Aurora - South
+08005006502,Littleton
+08005082600,Aurora - Northeast
+08005005628,Centennial - West
+08005006711,Centennial - West
+08001009603,Westminster
+08059980700,Arvada
+08059060501,Arvada
+08059011807,Lakewood - East
+08059011808,Lakewood - East
+08059009855,Golden
+08059011101,Lakewood - East
+08059011102,Lakewood - East
+08059011551,Lakewood - East
+08059009853,Golden
+08059009856,Golden
+08059011552,Lakewood - East
+08059009854,Golden
+08059009858,Golden
+08059009857,Golden
+08059980800,Golden
+08005005627,Centennial - West
+08005081300,Aurora - South
+08005084000,Aurora - South
+08001009608,Westminster
+08001009607,Westminster
+08014030500,Broomfield
+08014031000,Broomfield
+08005081200,Aurora - South
+08005007101,Aurora - Northeast
+08005007500,Aurora - Central
+08005005551,Denver - Southwest
+08005005630,Centennial - West
+08005005552,Englewood
+08005005553,Englewood
+08005005611,Centennial - West
+08005005612,Englewood
+08005005614,Centennial - West
+08005005619,Littleton
+08005005620,Littleton
+08001009553,Westminster
+08005005621,Littleton
+08005005622,Littleton
+08005005624,Littleton
+08005005625,Littleton
+08005005626,Centennial - West
+08005005629,Centennial - West
+08005084700,Aurora - South
+08005083400,Aurora - Northeast
+08005005631,Centennial - West
+08005007703,Aurora - Central
+08013013202,Longmont
+08013012401,Boulder
+08013012510,Boulder
+08031004110,Denver - Northeast
+08031004108,Denver - Northeast
+08031012016,Ken Caryl
+08031003501,Denver - North
+08031004308,Denver - City Park - Cherry Creek
+08031004309,Denver - East
+08031001705,Denver - Downtown
+08031001602,Denver - Five Points - Uptown
+08031001703,Denver - Downtown
+08031980200,Denver - Downtown
+08031001707,Denver - Downtown
+08031004307,Denver - City Park - Cherry Creek
+08031002704,Denver - Central
+08031002706,Denver - Central
+08031002804,Denver - Central
+08031002102,Denver - Central
+08031000704,Denver - West
+08031004310,Denver - East
+08031001601,Denver - Five Points - Uptown
+08031001603,Denver - Five Points - Uptown
+08031001704,Denver - Downtown
+08031005003,Denver - East
+08031004112,Denver - Northeast
+08031001706,Denver - Downtown
+08031002405,Denver - Five Points - Uptown
+08031004109,Denver - Northeast
+08031004111,Denver - Northeast
+08031004113,Denver - Northeast
+08031005004,Denver - East
+08031006903,Denver - East
+08031006902,Denver - East
+08031002604,Denver - Five Points - Uptown
+08031004407,Denver - East
+08031003005,Denver - South
+08031002705,Denver - Central
+08031004406,Denver - East
+08031002707,Denver - Central
+08031002404,Denver - Five Points - Uptown
+08031003502,Denver - North
+08031012015,Ken Caryl
+08031002805,Denver - Central
+08031003801,Denver - City Park - Cherry Creek
+08031000503,Denver - West
+08031015500,Glendale
+08031000703,Denver - West
+08031002708,Denver - Central
+08031002709,Denver - Central
+08031003205,Denver - City Park - Cherry Creek
+08031003204,Denver - City Park - Cherry Creek
+08031003006,Denver - South
+08031000705,Denver - West
+08031000504,Denver - West
+08031000404,Denver - West
+08031000403,Denver - West
+08031003802,Denver - City Park - Cherry Creek
+08031000706,Denver - West
+08031006818,Denver - Southeast
+08031006815,Denver - Southeast
+08031006816,Denver - Southeast
+08031007091,Denver - East
+08031015800,Denver - Airport
+08031007090,Denver - East
+08031002603,Denver - Five Points - Uptown
+08031980001,Denver - Airport
+08031006817,Denver - Southeast
+08031004602,Denver - Southwest
+08031004603,Denver - Southwest
+08031004700,Denver - Southwest
+08001008551,Thornton
+08123000600,Greeley - East
+08123000701,Greeley - East
+08123000800,Greeley - East
+08123000900,Greeley - East
+08001008535,Brighton
+08001008540,Thornton
+08123001201,Greeley - East
+08001007801,Aurora - Central
+08123001300,Greeley - East
+08014980200,Lafayette - Louisville
+08001009326,Westminster
+08123001202,Greeley - East
+08123001404,Greeley - West
+08123000100,Greeley - East
+08014030600,Broomfield
+08123002105,Weld County - South
+08123001914,Weld County - South
+08123001910,Weld County - South
+08123001911,Weld County - South
+08123001909,Weld County - South
+08123002108,Weld County - South
+08123002106,Weld County - South
+08123002104,Weld County - South
+08123002107,Windsor
+08123001912,Weld County - South
+08123001913,Weld County - South
+08005006501,Littleton
+08005006857,Centennial - East
+08031980100,Denver - Northeast
+08069000201,Fort Collins - Central
+08069000503,Fort Collins - Central
+08069001308,Fort Collins - North
+08069002010,Loveland
+08069001808,Loveland
+08069002801,Loveland
+08069002503,Fort Collins - North
+08014030700,Broomfield
+08014030400,Broomfield
+08031003202,Denver - City Park - Cherry Creek
+08031003203,Denver - City Park - Cherry Creek
+08031003300,Denver - City Park - Cherry Creek
+08031003401,Denver - City Park - Cherry Creek
+08014030100,Broomfield
+08014030000,Broomfield
+08014030300,Broomfield
+08031004601,Denver - Southwest
+08013060700,Lafayette - Louisville
+08005007702,Aurora - Central
+08005007704,Aurora - Central
+08031003402,Denver - City Park - Cherry Creek
+08031003602,Denver - North
+08013013302,Longmont
+08013013305,Longmont
+08013013307,Longmont
+08013013308,Longmont
+08013013401,Longmont
+08013013208,Longmont
+08013013210,Longmont
+08013013211,Longmont
+08013013402,Longmont
+08013012103,Boulder
+08013012710,Lafayette - Louisville
+08013012707,Lafayette - Louisville
+08013012605,Boulder
+08013012201,Boulder
+08013013201,Longmont
+08013013601,Longmont
+08013013602,Boulder
+08013013306,Longmont
+08031004801,Denver - Southwest
+08031005001,Denver - East
+08069000600,Fort Collins - Central
+08069000700,Fort Collins - Central
+08069000300,Fort Collins - Central
+08069000901,Fort Collins - Central
+08069000902,Fort Collins - Central
+08069001004,Fort Collins - South
+08069001007,Fort Collins - South
+08069001008,Fort Collins - South
+08069002700,Loveland
+08069001902,Loveland
+08069001003,Fort Collins - South
+08069001301,Fort Collins - North
+08123002207,Windsor
+08069001109,Fort Collins - South
+08069001009,Fort Collins - South
+08069001010,Fort Collins - South
+08069001104,Fort Collins - South
+08069001106,Fort Collins - South
+08069001107,Fort Collins - South
+08069001110,Fort Collins - Central
+08069001111,Fort Collins - Central
+08035014133,Highlands Ranch
+08069002300,Fort Collins - South
+08069001112,Fort Collins - South
+08069001113,Fort Collins - South
+08069001114,Fort Collins - South
+08069001304,Fort Collins - North
+08069001305,Fort Collins - North
+08069001306,Fort Collins - Central
+08069001601,Fort Collins - Central
+08069001708,Fort Collins - South
+08069001602,Fort Collins - South
+08069001706,Loveland
+08069001707,Loveland
+08069000100,Fort Collins - Central
+08069001804,Loveland
+08069001807,Loveland
+08069001901,Loveland
+08123001412,Greeley - West
+08123001409,Greeley - West
+08123001415,Greeley - West
+08123002008,Weld County - South
+08123002016,Weld County - South
+08123001413,Greeley - West
+08123000704,Greeley - East
+08123002020,Weld County - South
+08123002021,Weld County - South
+08123001905,Weld County - South
+08123002011,Weld County - South
+08123002015,Weld County - South
+08123002017,Weld County - South
+08123002204,Windsor
+08123002205,Windsor
+08123002206,Windsor
+08123002210,Windsor
+08123001003,Greeley - East
+08123001414,Greeley - West
+08123002012,Weld County - South
+08123002208,Windsor
+08123001906,Weld County - South
+08123002010,Weld County - South
+08001008533,Thornton
+08001008534,Thornton
+08001008603,Brighton
+08001008604,Brighton
+08001008605,Brighton
+08001008606,Brighton
+08031008388,Denver - Airport
+08123001005,Greeley - East
+08001009309,Westminster
+08001008705,Commerce City
+08001008901,Commerce City
+08001009321,Westminster
+08001008402,Brighton
+08001007900,Aurora - Central
+08001008401,Brighton
+08001008802,Commerce City
+08001009103,Thornton
+08001009408,Westminster
+08001009606,Westminster
+08001988700,Denver - Airport
+08001008706,Commerce City
+08001008801,Commerce City
+08001009001,Thornton
+08001009101,Thornton
+08001009104,Thornton
+08001009202,Thornton
+08001009203,Thornton
+08001009204,Thornton
+08001009304,Westminster
+08001009306,Westminster
+08001009307,Westminster
+08001009308,Westminster
+08059009815,Arvada
+08001009310,Westminster
+08001009316,Westminster
+08001009318,Westminster
+08001009319,Westminster
+08035014005,Parker - Lone Tree
+08059011728,Lakewood - West
+08059011729,Lakewood - West
+08059011730,Lakewood - West
+08059011731,Lakewood - West
+08123001600,Greeley - East
+08123000200,Greeley - East
+08123002502,Weld County - South
+08123001500,Greeley - East
+08123000502,Greeley - East
+08123002300,Windsor
+08123001700,Weld County - South
+08123002501,Windsor
+08123001800,Weld County - South
+08123001100,Greeley - East
+08031000201,Denver - North
+08031003003,Denver - South
+08031004201,Denver - City Park - Cherry Creek
+08031007006,Denver - Southeast
+08031012010,Ken Caryl
+08031000303,Denver - West
+08059011803,Lakewood - East
+08059011804,Lakewood - East
+08059011951,Lakewood - East
+08031003902,Denver - City Park - Cherry Creek
+08031004002,Denver - South
+08031004003,Denver - South
+08031004004,Denver - Southeast
+08059012023,Ken Caryl
+08059012024,Ken Caryl
+08031004202,Denver - Northeast
+08031004302,Denver - City Park - Cherry Creek
+08031004005,Denver - South
+08031004006,Denver - South
+08031004101,Denver - Northeast
+08031004303,Denver - City Park - Cherry Creek
+08059012038,Ken Caryl
+08059012039,Ken Caryl
+08059012041,Ken Caryl
+08059012043,Ken Caryl
+08031000800,Denver - West
+08031000902,Denver - Southwest
+08031000903,Denver - Southwest
+08059012046,Ken Caryl
+08059012047,Ken Caryl
+08059012048,Ken Caryl
+08059012049,Ken Caryl
+08059012051,Ken Caryl
+08059012053,Ken Caryl
+08059012054,Ken Caryl
+08059012044,Ken Caryl
+08059012055,Ken Caryl
+08059012057,Ken Caryl
+08059012026,Golden
+08059012036,Highlands Ranch
+08031000905,Denver - West
+08123000401,Greeley - East
+08123000300,Greeley - East
+08123000402,Greeley - East
+08031001000,Denver - Southwest
+08031001101,Denver - North
+08031001102,Denver - West
+08031003603,Denver - North
+08059011904,Denver - Marston
+08014980100,Lafayette - Louisville
+08035014138,Highlands Ranch
+08035014134,Highlands Ranch
+08035014132,Highlands Ranch
+08035014140,Parker - Lone Tree
+08035013910,Parker - Lone Tree
+08123002013,Weld County - South
+08123000705,Greeley - East
+08001061200,Thornton
+08031015400,Denver - West
+08005004952,Glendale
+08123001406,Greeley - West
+08123001405,Greeley - West
+08123001006,Greeley - East
+08123000703,Greeley - East
+08013012608,Boulder
+08013013505,Longmont
+08005007400,Aurora - Central
+08005007600,Aurora - Central
+08059009847,Golden
+08059012034,Highlands Ranch
+08059009837,Arvada
+08059009828,Westminster
+08059012058,Highlands Ranch
+08059012027,Golden
+08059010403,Arvada
+08059012050,Ken Caryl
+08059010603,Arvada
+08059012045,Ken Caryl
+08059012030,Golden
+08059012035,Highlands Ranch
+08059009841,Arvada
+08059009848,Golden
+08059011702,Lakewood - East
+08005007201,Aurora - Central
+08005007202,Aurora - Central
+08059010701,Arvada
+08059012032,Golden
+08059009846,Golden
+08059009845,Golden
+08059009806,Golden
+08059980000,Lakewood - West
+08059009829,Westminster
+08059010306,Arvada
+08059012033,Highlands Ranch
+08059012022,Ken Caryl
+08059009827,Westminster
+08059011723,Lakewood - West
+08059009840,Arvada
+08059012031,Golden
+08059012037,Golden
+08059012042,Ken Caryl
+08059009839,Arvada
+08059009842,Golden
+08059010100,Golden
+08059010205,Arvada
+08059012052,Ken Caryl
+08059009807,Golden
+08059060400,Westminster
+08059010211,Arvada
+08059009830,Westminster
+08059010206,Arvada
+08059010208,Arvada
+08059010209,Arvada
+08059010210,Arvada
+08059010212,Arvada
+08059010308,Arvada
+08059010213,Arvada
+08059010303,Arvada
+08059009831,Westminster
+08059009832,Arvada
+08059009833,Arvada
+08059009834,Arvada
+08059009835,Arvada
+08059009836,Arvada
+08059010304,Arvada
+08059010305,Arvada
+08059010307,Arvada
+08005083202,Aurora - Northeast
+08059010402,Arvada
+08059010405,Arvada
+08059010406,Arvada
+08059009838,Arvada
+08059010502,Arvada
+08059010503,Arvada
+08059010504,Lakewood - West
+08059010604,Arvada
+08059010702,Arvada
+08059010801,Lakewood - West
+08059010901,Lakewood - West
+08059010902,Lakewood - West
+08059011000,Lakewood - East
+08059011202,Lakewood - East
+08059011300,Lakewood - East
+08059011601,Lakewood - East
+08059011602,Lakewood - East
+08059011701,Lakewood - East
+08059011708,Lakewood - West
+08059011709,Lakewood - West
+08059011710,Lakewood - West
+08059011711,Lakewood - West
+08059011712,Lakewood - West
+08005004951,Glendale
+08005086500,Aurora - Southeast
+08005080600,Aurora - South
+08005007106,Aurora - Northeast
+08005083800,Aurora - South
+08059011720,Lakewood - West
+08059011721,Lakewood - West
+08059011724,Lakewood - West
+08059011725,Lakewood - West
+08059011726,Lakewood - West
+08059011727,Lakewood - West
+08005086001,Aurora - Southeast
+08005007108,Aurora - Northeast
+08005007112,Aurora - Southeast
+08005007110,Aurora - Northeast
+08005087301,Denver - East
+08005005701,Englewood
+08005006864,Centennial - East
+08005005702,Englewood
+08005083201,Aurora - Northeast
+08005086802,Denver - East
+08005007113,Aurora - Southeast
+08005006863,Centennial - East
+08005007111,Aurora - Northeast
+08005006854,Denver - Southeast
+08005006862,Centennial - East
+08005083700,Aurora - Southeast
+08005081002,Aurora - Central
+08005081102,Aurora - South
+08005007109,Aurora - Northeast
+08005081001,Aurora - Central
+08005081101,Aurora - South
+08005087302,Denver - East
+08005980000,Denver - Southeast
+08005083600,Aurora - South
+08005006860,Centennial - East
+08005006861,Centennial - East
+08005006859,Centennial - East
+08005086002,Aurora - Southeast
+08005086801,Denver - East
+08035014139,Highlands Ranch
+08005080400,Aurora - South
+08005081600,Aurora - South
+08005082500,Aurora - South
+08123002019,Weld County - South
+08005005635,Centennial - West
+08005006713,Centennial - West
+08005084600,Aurora - Southeast
+08005005636,Centennial - West
+08031001800,Denver - Central
+08005086200,Aurora - Southeast
+08005085400,Aurora - Southeast
+08031002000,Denver - Central
+08031002402,Denver - Five Points - Uptown
+08005005633,Littleton
+08005005634,Littleton
+08005005800,Englewood
+08005005951,Englewood
+08005005952,Englewood
+08005006000,Englewood
+08005084900,Aurora - Southeast
+08014030900,Broomfield
+08123002009,Weld County - South
+08005006712,Centennial - West
+08031005104,Glendale
+08031005200,Denver - East
+08031006814,Denver - Southeast
+08031001500,Denver - North
+08031002602,Denver - Five Points - Uptown
+08005006100,Englewood
+08031002801,Denver - Central
+08031002802,Denver - Central
+08005005623,Littleton
+08005087200,Denver - East
+08005006200,Englewood
+08005006300,Englewood
+08005006400,Englewood
+08005006601,Littleton
+08005082100,Aurora - South
+08005082700,Aurora - Northeast
+08005086400,Aurora - Southeast
+08005082800,Aurora - Northeast
+08005083500,Aurora - Northeast
+08005083300,Aurora - Northeast
+08005006603,Littleton
+08005006604,Littleton
+08005006704,Englewood
+08005006705,Englewood
+08005006706,Centennial - West
+08005006707,Centennial - West
+08005006708,Centennial - West
+08005006709,Centennial - West
+08005015100,Denver - East
+08031015300,Glendale
+08005006808,Centennial - East
+08005006815,Centennial - East
+08005080200,Aurora - South
+08005081800,Aurora - Central
+08005081900,Aurora - Central
+08123001411,Greeley - West
+08005080000,Aurora - South
+08005080100,Aurora - South
+08031002901,Denver - Central
+08005080900,Aurora - South
+08005080700,Aurora - South
+08005080300,Aurora - South
+08031002902,Denver - City Park - Cherry Creek
+08031003002,Denver - South
+08031003004,Denver - South
+08031003101,Denver - City Park - Cherry Creek
+08031003102,Denver - City Park - Cherry Creek
+08123002004,Weld County - South
+08123002005,Weld County - South
+08123002018,Weld County - South
+08123002006,Weld County - South
+08005082400,Aurora - South
+08005084500,Aurora - Northeast
+08059009852,Golden
+08059009850,Golden
+08059011402,Lakewood - East
+08035014135,Highlands Ranch
+08059012059,Ken Caryl
+08035013911,Parker - Lone Tree
+08035014009,Parker - Lone Tree
+08035014013,Castle Rock
+08035014604,Castle Rock
+08035014506,Castle Rock
+08035014125,Parker - Lone Tree
+08035014131,Highlands Ranch
+08035014203,Highlands Ranch
+08035014128,Highlands Ranch
+08035014404,Castle Rock
+08035014603,Castle Rock
+08035014505,Castle Rock
+08035014405,Castle Rock
+08005082000,Aurora - Central
+08005082200,Aurora - South
+08059011401,Lakewood - East
+08035014006,Parker - Lone Tree
+08001009327,Westminster
+08001009752,Westminster
+08001008709,Commerce City
+08013013506,Longmont
+08013013508,Longmont
+08013061400,Broomfield
+08031005102,Glendale
+08123001408,Greeley - West
+08123000501,Greeley - East
+08005081400,Aurora - South
+08005084100,Aurora - Northeast
+08005084200,Aurora - Northeast
+08005084300,Aurora - Northeast
+08005084400,Aurora - Northeast
+08005085700,Aurora - Southeast
+08005005632,Littleton
+08005081500,Aurora - South
+08005084800,Aurora - Southeast
+08005085800,Aurora - Southeast
+08005086300,Aurora - Southeast
+08005085200,Aurora - Southeast
+08005085300,Aurora - Southeast
+08005086600,Aurora - Southeast
+08005083100,Aurora - Northeast
+08005085000,Aurora - Southeast
+08005087000,Aurora - South
+08005085500,Aurora - Southeast
+08005085600,Aurora - Southeast
+08005085100,Aurora - Southeast
+08005086100,Aurora - Southeast
+08005086700,Aurora - Southeast
+08005085900,Aurora - Southeast
+08005083000,Aurora - Northeast
+08005007301,Aurora - Central
+08005087100,Aurora - South
+08005086900,Denver - East
+08005082900,Aurora - Northeast
+08005081700,Aurora - Southeast
+08069001307,Fort Collins - North
+08069001606,Fort Collins - South
+08069002803,Loveland
+08069000401,Fort Collins - Central
+08069000402,Fort Collins - Central
+08069000504,Fort Collins - Central
+08069000506,Fort Collins - Central
+08069000801,Fort Collins - Central
+08069000802,Fort Collins - Central
+08069002011,Loveland
+08069001605,Fort Collins - South
+08069002401,Fort Collins - North
+08069000202,Fort Collins - Central
+08069000505,Fort Collins - Central
+08069001607,Fort Collins - South
+08069001608,Fort Collins - South
+08059009851,Golden
+08059015900,Lakewood - West
+08059011732,Lakewood - West
+08059011733,Lakewood - West
+08059011806,Lakewood - East
+08059012060,Ken Caryl
+08059015800,Lakewood - West
+08031015700,Denver - Southwest
+08031001901,Denver - Central
+08031004504,Denver - Southwest
+08031004505,Denver - Southwest
+08031004506,Denver - Southwest
+08031008312,Denver - Airport
+08031008387,Denver - Airport
+08031004503,Denver - Southwest
+08031004306,Denver - East
+08031008386,Denver - Airport
+08031008389,Denver - Airport
+08031008391,Denver - Airport
+08031008390,Denver - Airport
+08031015600,Denver - Southwest
+08035014010,Parker - Lone Tree
+08035014007,Parker - Lone Tree
+08035014126,Highlands Ranch
+08035014130,Highlands Ranch
+08035014008,Parker - Lone Tree
+08035014011,Parker - Lone Tree
+08035014127,Parker - Lone Tree
+08001007802,Aurora - Central
+08001008550,Thornton
+08001008549,Thornton
+08001008545,Thornton
+08001008544,Thornton
+08001008547,Thornton
+08001008548,Thornton
+08001009207,Thornton
+08035014129,Highlands Ranch
+08035014124,Highlands Ranch
+08001008536,Brighton
+08001008546,Thornton
+08001009206,Thornton
+08001009751,Westminster
+08031006701,Denver - Southeast
+08031000102,Denver - West
+08031000202,Denver - North
+08031000301,Denver - West
+08031000302,Denver - West
+08013061300,Broomfield
+08013013212,Longmont
+08013013507,Longmont
+08123002007,Weld County - South
+08123002014,Weld County - South
+08123002203,Windsor
+08123002209,Windsor
+08123002101,Windsor
+08035014109,Highlands Ranch
+08035014110,Highlands Ranch
+08035014112,Highlands Ranch
+08031000401,Denver - North
+08035014113,Highlands Ranch
+08035014114,Parker - Lone Tree
+08031000501,Denver - West
+08031000600,Denver - West
+08123001410,Greeley - West
+08123001004,Greeley - East
+08123001416,Greeley - West
+08123001417,Greeley - West
+08031000904,Denver - West
+08031003601,Denver - North
+08031006812,Denver - Southeast
+08031002300,Denver - North
+08031001301,Denver - Southwest
+08031001302,Denver - Southwest
+08031001401,Denver - Southwest
+08031001402,Denver - Southwest
+08031001403,Denver - South
+08123001407,Greeley - West
+08005007302,Aurora - Central
+08069002005,Loveland
+08031005300,Denver - South
+08031005502,Denver - Marston
+08031005503,Denver - Marston
+08031006804,Denver - Southeast
+08069002007,Loveland
+08069002008,Loveland
+08069001603,Fort Collins - South
+08014980300,Lafayette - Louisville
+08031006810,Denver - Southeast
+08031006813,Denver - East
+08059060300,Broomfield
+08059009823,Westminster
+08031007013,Denver - East
+08031007037,Denver - East
+08031007088,Denver - East
+08001009322,Westminster
+08001008524,Thornton
+08059980400,Lakewood - West
+08001009320,Westminster
+08001009323,Westminster
+08001009325,Westminster
+08001009401,Westminster
+08059009824,Westminster
+08031008304,Denver - Airport
+08031008305,Denver - Airport
+08031008306,Denver - Airport
+08001009406,Westminster
+08001009407,Westminster
+08001009409,Westminster
+08001009410,Westminster
+08001009411,Westminster
+08001009501,Westminster
+08001009502,Westminster
+08001008000,Aurora - Central
+08001008100,Aurora - Central
+08001008200,Aurora - Central
+08001008308,Aurora - Central
+08001008309,Aurora - Central
+08001008505,Thornton
+08001008506,Thornton
+08001008507,Thornton
+08031011902,Denver - Marston
+08031011903,Denver - Marston
+08031012001,Denver - Marston
+08001008508,Thornton
+08001008526,Thornton
+08001060100,Broomfield
+08001060200,Westminster
+08001008538,Brighton
+08001015000,Commerce City
