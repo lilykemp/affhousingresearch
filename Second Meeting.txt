@@ -1,0 +1,41 @@
+7/2/2024 Meeting
+
+Important Notes:
+	- Make sure statements are in per capita terms.
+	- Do not assume that submarkets with the most inventory in 2010 had the most new units in 2023
+	- More inventory per capita is a negative predictor of how much new stock was build by 2023 (city level)
+	- Area hierarchy: Metro area (DFW) -> Municipality/city (Dallas) -> Submarket (Yardi-defined) -> Census tract
+	
+Questions:
+	- *** Where is the affordable housing in these cities? ***
+		- Where is AFF currently?
+		- Where is AFF being built?
+	- Is there a simple variable that can explain where AFF housing goes/is going?
+	- Is it true that, across localities, AFF housing is concentrated in poor/low income areas?
+
+Steps for Research:
+1. Get ACS data.
+	- Select relevant variables.
+	- DP02, DP03, DP04
+2. Aggregate census data to the submarket level.
+	- Make sure everything is in per capita terms. 
+	- Example: Number of AFF units per capita.
+3. Make statements about submarkets.
+	- What predicts where inventory is?
+	- What predicts where new inventory goes?
+4. Make statements about cities.
+	- Aggregate submarket data.
+	- The cities chosen for this research represent about 20% of the American population.
+5. Group the submarkets into 3-4 bins per city.
+	- Example: Rank the bins by most affordable -> least affordable sectors of a city.
+	- Put on a map, color code by income.
+6. Compare cities to each other.
+7. Make maps!
+	- One of the last steps. We should have all other data/stats/information first.
+	- Example of slide:
+		- 2 maps of Dallas	
+			1. Color coded submarkets by income
+			2. Color coded submarkets by available AFF units
+8. Get attention!!
+	- Ranking cities
+	- Example: Rank cities by most likely to have AFF in poor areas to least likely

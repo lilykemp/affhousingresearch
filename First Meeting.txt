@@ -1,0 +1,91 @@
+6/24/2024 Meeting
+
+Logic of project
+- Value in assembling a descriptive set of data for nuanced topics
+- If we get to a place where we say about 40 submarkets/neighborhoods
+	- Where is the housing and where is the inventory located?
+	- Where are the new ones being added?
+- Once we have census tracts,
+	- Download from ACS facts about the neighborhood
+	- Can discover more qualitative qualities of the neighborhood
+	- Can predict why there is more/less housing in the neighborhood
+- Then, we can
+	- Make statements about the entire municipality (Dallas, with 26 submarkets)
+	- Come up with intuitive statements about the whole city
+		- "How much affordable housing per capita in diff submarkets, how does it correlate with metrics like income, racial constituion"
+		- Eventually can compare all municipalities
+			- "High correlation between income and affordable housing" for example
+			- Try to keep it simple with the statements
+			- "Of these cities, x is the most segregated"
+- Once we have municipality data
+	- Is the data at the level of the whole municipality/locality?
+	- Characteristics of the whole place that has predictors for segregation level? Is segregation predictive of other things?
+	- Relationships between relatively high/low segregation levels (aff housing in poor areas) and 
+	- How much aff housing was built at all compared to segregation levels?
+	
+Structure of the data (what does the spreadsheet look like)
+- For any one submarket, we have 
+	- Disregard WF and MR
+		- In the raw data, every year was a row and each subset of housing was split into four
+		- "Market rate" = They are charging a rate that is not regulated/controlled; set by supply and demand
+	- Fully affordable housing
+		- The government has a direct hand in making the rents lower (government controlled)
+	- WF + MR
+		- Aimed at the middle of the population
+		
+Background information
+- Who qualifies for fully affordable?
+	- Income based
+		- Federal Department of Housing & Urban Development (HUD) has a separate income distribution from the census
+		- Level of areas (could be single city, county, etc)
+		- Area Median Income
+			- Regardless of true distribution, define key levels of income (30% of AMI, 50%, 60%, 80%, 120%)
+			- Below 30% = extremely poor, difficult to house
+			- Near 80% = decently well served
+	- Looking at income distribution, somewhere between bottom 30-40% would qualify
+- In every submarket, # of midrange unit way more than AFF units
+	- # of families who qualify is way more
+	- People who would qualify for AFF live in "naturally occurring affordable housing"
+		- Units get old & run down
+		- Was never subject to government regulation, but as building ages, value declines and becomes "kind of" affordable
+		- Distinction impossible for this project
+	- Too few AFF units to meet need
+	
+ACS (American Community Survey)
+- Where in these cities is the existing AFF, and where are they building new AFF?
+	- Look at both AFF and WF+MR
+	- More people who qualify for AFF are living in WF+MR than AFF
+
+Basic problem:
+- What we have from Yardi is doing what the fed gov is not.
+	- Counting units (census of apartments in US) and updating it once a year down to submarket levels
+	- Does not collect data from humans
+		- No income, age, gender, race, etc
+- Combining Yardi data with fed gov data
+- Want to speak to apartment characteristics and human characteristics
+
+Our goal:
+- Take the Yardi map & submarkets, and cross-walk the 26 submarkets to a list of census tracts
+- The census tract lines will not perfectly fit.
+	- Can follow any rule as long as it is consistent
+	- Recommendation: Eyeball it. More than 1/2 of census tract inside the submarket, assign it to that submarket
+	
+Once census tracts are assigned,
+	1. Download data from ACS
+		- May have NAs in census tract data due to nonresponse
+		- For each submarket, enter all relevant census tracts.
+			- DP02, DP03, DP04 reports
+			- 3 reports x 2 periods of time
+				- 2022 5-year, 2010 5-year
+	2. Combine all census tract data in a submarket
+		- Can do with simple addition
+		
+* Important thing * 
+- Turn Yardi numbers into per capita numbers
+- Census tracts are not the same size
+
+What variables do we need from the ACS reports?
+- Will not need all variables from the reports
+
+* Why? *
+What places in the sun belt area performing the best and what is causing the performance?
