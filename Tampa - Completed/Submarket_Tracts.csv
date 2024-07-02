@@ -1,0 +1,922 @@
+GEOID,Submarket
+12105012510,Davenport
+12105014130,Lake Wales
+12105014401,Winter Haven
+12105012131,Lakeland
+12105014703,Lakeland
+12105012209,Lakeland
+12105014126,Davenport
+12105014128,Davenport
+12105014127,Davenport
+12105012132,Lakeland
+12105012414,Davenport
+12105012512,Davenport
+12105012509,Davenport
+12105012208,Lakeland
+12105013601,Winter Haven
+12105014131,Lake Wales
+12105014303,Lake Wales
+12105014304,Lake Wales
+12105014402,Winter Haven
+12105012511,Davenport
+12105012130,Lakeland
+12105014129,Davenport
+12105012514,Davenport
+12105012508,Davenport
+12105012415,Davenport
+12105012412,Davenport
+12105012413,Davenport
+12105012133,Lakeland
+12103027212,Palm Harbor
+12103027108,Clearwater - West
+12053040913,Spring Hill
+12053041602,Spring Hill
+12053041601,Spring Hill
+12053040912,Spring Hill
+12103022402,St Petersburg - West
+12103027401,Tarpon Springs
+12103021200,St Petersburg - Downtown
+12103020400,St Petersburg - South
+12103020500,St Petersburg - South
+12103020600,St Petersburg - South
+12103020700,St Petersburg - South
+12103020800,St Petersburg - South
+12101031101,Port Richey
+12101030901,New Port Richey
+12101030700,New Port Richey
+12101031504,New Port Richey
+12101030800,New Port Richey
+12101031404,New Port Richey
+12101032200,Dade City
+12101032500,Dade City
+12101032001,Land O' Lakes
+12101031008,Port Richey
+12101032300,Dade City
+12057000102,Tampa - Northeast
+12057014300,Thonotosassa
+12101031003,Port Richey
+12101031006,Port Richey
+12101031007,Port Richey
+12057004602,Tampa - Airport
+12057011716,Town 'n' Country
+12057010823,University
+12057004601,Tampa - Airport
+12057014200,Tampa - Historic
+12057011017,Tampa Palms - Pebble Creek
+12057006503,Tampa - South Tampa
+12057002701,Tampa - West
+12057010215,Tampa Palms - Pebble Creek
+12057010216,Tampa Palms - Pebble Creek
+12057011525,Citrus Park - Westchase
+12057000302,Tampa - Northeast
+12057012110,Brandon
+12057010822,University
+12057000601,Tampa - Northwest
+12057000901,Tampa - Northeast
+12057011712,Town 'n' Country
+12057980400,Thonotosassa
+12057980500,Town 'n' Country
+12101031401,New Port Richey
+12101031503,New Port Richey
+12057011714,Town 'n' Country
+12057000702,Tampa - Northeast
+12057000701,Tampa - Northeast
+12057014400,Town 'n' Country
+12057014017,Sun City Center
+12057010218,Tampa Palms - Pebble Creek
+12057011713,Town 'n' Country
+12057011908,Egypt Lake-Leto
+12057011617,Town 'n' Country
+12057011616,Town 'n' Country
+12057010217,Tampa Palms - Pebble Creek
+12057011907,Egypt Lake-Leto
+12057011909,Egypt Lake-Leto
+12057011910,Egypt Lake-Leto
+12057011806,Egypt Lake-Leto
+12057011805,Egypt Lake-Leto
+12057011911,Egypt Lake-Leto
+12057002702,Tampa - West
+12057011019,Tampa Palms - Pebble Creek
+12053040901,Spring Hill
+12053041201,Spring Hill
+12053040701,Spring Hill
+12053041401,Spring Hill
+12053041402,Spring Hill
+12057010820,University
+12057000301,Tampa - Northeast
+12057010821,University
+12057011527,Citrus Park - Westchase
+12057011528,Citrus Park - Westchase
+12057011018,Tampa Palms - Pebble Creek
+12057010824,University
+12057010819,University
+12057013705,Palm River-Clair Mel
+12057004902,Tampa - West
+12057011526,Citrus Park - Westchase
+12057013323,Brandon
+12057004901,Tampa - West
+12057013926,Riverview
+12057013706,Palm River-Clair Mel
+12057013925,Riverview
+12105012515,Davenport
+12057011715,Town 'n' Country
+12057013924,Riverview
+12057012109,Brandon
+12105013602,Winter Haven
+12105014904,Lakeland
+12105014905,Lakeland
+12105014903,Lakeland
+12105012702,Davenport
+12105011837,Lakeland
+12105012207,Lakeland
+12105011838,Lakeland
+12105014906,Lakeland
+12105012701,Davenport
+12105012513,Davenport
+12105014704,Lakeland
+12105011835,Lakeland
+12105012804,Winter Haven
+12105012409,Davenport
+12105014501,Winter Haven
+12105014005,Winter Haven
+12105015402,Lake Wales
+12105016003,Barlow
+12105010402,Lakeland
+12103027318,Palm Harbor
+12103027320,Oldsmar
+12105015404,Lake Wales
+12105011203,Lakeland
+12105012309,Lakeland
+12105012410,Davenport
+12103025305,Largo
+12057011007,Lake Magdalene - Northdale
+12057013314,Brandon
+12057003200,Tampa - East
+12057002000,Tampa - East
+12103025011,Seminole
+12103025012,Seminole
+12103025014,Pinellas Park
+12103025015,Pinellas Park
+12103025016,Seminole
+12103025106,Seminole
+12103026701,Clearwater - West
+12103026601,Clearwater - West
+12103026602,Clearwater - West
+12057011407,Carrollwood
+12057011409,Carrollwood
+12057013100,Plant City
+12057013205,Brandon
+12057013207,Brandon
+12057013208,Riverview
+12057013305,Brandon
+12057013415,Riverview
+12103025107,Seminole
+12103025108,Seminole
+12103025109,Seminole
+12103025110,Seminole
+12103025116,Largo
+12103025112,Seminole
+12103025113,Seminole
+12103025114,Seminole
+12057013307,Brandon
+12057002400,Tampa - West
+12057010204,Temple Terrace
+12057010600,Temple Terrace
+12057006000,Tampa - South Tampa
+12057012106,Brandon
+12057010203,Thonotosassa
+12057011410,Citrus Park - Westchase
+12057011411,Lake Magdalene - Northdale
+12057013501,Palm River-Clair Mel
+12057013311,Brandon
+12057013312,Brandon
+12057013313,Brandon
+12057013406,Riverview
+12057013407,Riverview
+12057013503,Palm River-Clair Mel
+12057013504,Palm River-Clair Mel
+12057013903,Riverview
+12057010402,East Lake-Orient Park
+12057011415,Carrollwood
+12057003300,Tampa - East
+12057006200,Tampa - South Tampa
+12057011203,Lake Magdalene - Northdale
+12057005102,Tampa - Downtown
+12057012304,Brandon
+12057010108,Plant City
+12057013204,Brandon
+12057011610,Town 'n' Country
+12057011504,Citrus Park - Westchase
+12103026804,Clearwater - East
+12057011514,Lake Magdalene - Northdale
+12057011515,Lake Magdalene - Northdale
+12057011516,Lake Magdalene - Northdale
+12057013912,Riverview
+12057014002,Apollo Beach - Ruskin
+12057014003,Sun City Center
+12103026908,Clearwater - West
+12103026815,Clearwater - East
+12057014106,Apollo Beach - Ruskin
+12057014108,Apollo Beach - Ruskin
+12057004300,Tampa - West
+12057013203,Brandon
+12057011412,Citrus Park - Westchase
+12057011413,Citrus Park - Westchase
+12057011414,Citrus Park - Westchase
+12057011416,Carrollwood
+12057013505,Palm River-Clair Mel
+12057013602,Palm River-Clair Mel
+12057000800,Tampa - Northeast
+12057011506,Citrus Park - Westchase
+12057011509,Citrus Park - Westchase
+12057011510,Lake Magdalene - Northdale
+12057011512,Citrus Park - Westchase
+12057011612,Town 'n' Country
+12057013702,Palm River-Clair Mel
+12103026703,Clearwater - West
+12057011605,Town 'n' Country
+12057011603,Town 'n' Country
+12057013803,Riverview
+12057013804,Riverview
+12057013907,Riverview
+12103026811,Clearwater - East
+12103026812,Clearwater - East
+12103026813,Clearwater - East
+12103026814,Clearwater - East
+12057001100,Tampa - Northeast
+12057001200,Tampa - Northwest
+12103026817,Clearwater - East
+12103026904,Clearwater - West
+12057014109,Apollo Beach - Ruskin
+12057000500,Tampa - Northwest
+12057000402,Tampa - Northwest
+12103026911,Clearwater - West
+12103026909,Clearwater - West
+12103027000,Clearwater - West
+12057001300,Tampa - Northwest
+12057001400,Tampa - Northwest
+12057001500,Tampa - Northwest
+12057001700,Tampa - Northeast
+12057001900,Tampa - East
+12057002100,Tampa - East
+12057002200,Tampa - Tampa Heights
+12057002300,Tampa - Tampa Heights
+12057002500,Tampa - West
+12103025119,Largo
+12103025120,Seminole
+12103025121,Seminole
+12103025204,Largo
+12103025205,Largo
+12057002800,Tampa - Tampa Heights
+12057002900,Tampa - Tampa Heights
+12057003600,Tampa - East
+12105015405,Lake Wales
+12103026102,Clearwater - West
+12057003000,Tampa - Tampa Heights
+12057003100,Tampa - East
+12057003400,Tampa - East
+12057003500,Tampa - East
+12057003700,Tampa - East
+12103027332,Oldsmar
+12103025902,Clearwater - West
+12103026915,Clearwater - West
+12057003800,Tampa - Historic
+12103026402,Clearwater - West
+12103026401,Clearwater - West
+12103026501,Clearwater - West
+12103025211,Largo
+12103026705,Clearwater - West
+12103026704,Clearwater - West
+12103025210,Largo
+12103027331,Palm Harbor
+12103025901,Clearwater - West
+12103025309,Largo
+12103025509,Largo
+12103025507,Largo
+12103025508,Largo
+12103027211,Palm Harbor
+12103026916,Clearwater - West
+12103027404,Tarpon Springs
+12103023602,St Petersburg - East
+12103028602,St Petersburg - Downtown
+12103024516,Pinellas Park
+12103024907,Pinellas Park
+12057004500,Tampa - West
+12057004700,Tampa - Airport
+12057004800,Tampa - West
+12057005000,Tampa - West
+12057004100,Tampa - Tampa Heights
+12057004200,Tampa - Tampa Heights
+12057004400,Tampa - West
+12057005500,Tampa - West
+12057006300,Tampa - South Tampa
+12057006600,Tampa - South Tampa
+12057006801,Tampa - South Tampa
+12057005700,Tampa - West
+12057005800,Tampa - South Tampa
+12057010105,Thonotosassa
+12103022501,St Petersburg - West
+12103023100,St Petersburg - East
+12103021600,St Petersburg - Downtown
+12103021800,St Petersburg - West
+12103021900,St Petersburg - West
+12103022000,St Petersburg - West
+12103022200,St Petersburg - West
+12103022301,St Petersburg - West
+12103022302,St Petersburg - West
+12103022401,St Petersburg - West
+12103027105,Clearwater - West
+12101031708,New Port Richey
+12103022502,St Petersburg - West
+12103022503,St Petersburg - West
+12103022601,St Petersburg - West
+12103022602,St Petersburg - West
+12103022700,St Petersburg - West
+12103022801,St Petersburg - West
+12103022802,St Petersburg - West
+12103022901,St Petersburg - West
+12057001800,Tampa - East
+12057011408,Carrollwood
+12057011611,Town 'n' Country
+12057010303,Thonotosassa
+12057010106,Plant City
+12103025800,Clearwater - West
+12057011613,Town 'n' Country
+12057011804,Egypt Lake-Leto
+12103027207,Palm Harbor
+12057010107,Plant City
+12057010304,Thonotosassa
+12057010305,East Lake-Orient Park
+12057010401,Temple Terrace
+12103025700,Largo
+12103027204,Palm Harbor
+12103027206,Palm Harbor
+12103023200,St Petersburg - East
+12103023300,St Petersburg - East
+12103023400,St Petersburg - East
+12103027208,Palm Harbor
+12103023700,St Petersburg - East
+12103023800,St Petersburg - East
+12103023900,St Petersburg - East
+12103024001,St Petersburg - East
+12103024002,St Petersburg - East
+12103024004,St Petersburg - East
+12103027314,Palm Harbor
+12103025407,Largo
+12103025411,Largo
+12103025501,Clearwater - West
+12103028300,South Pasadena
+12103028500,South Pasadena
+12103025111,Seminole
+12103024515,Pinellas Park
+12103026003,Clearwater - West
+12103028006,South Pasadena
+12103023000,St Petersburg - West
+12103024301,St Petersburg - East
+12103024906,Pinellas Park
+12103025602,Largo
+12103025004,Pinellas Park
+12103025013,Seminole
+12103025115,Largo
+12103022902,St Petersburg - West
+12103024508,Largo
+12103025303,Largo
+12103020201,St Petersburg - South
+12103024905,Pinellas Park
+12103027308,Tarpon Springs
+12103027319,Oldsmar
+12103020105,St Petersburg - South
+12103020301,St Petersburg - South
+12057013320,Brandon
+12057013919,Riverview
+12057014119,Apollo Beach - Ruskin
+12103026001,Clearwater - West
+12103027309,Oldsmar
+12103024005,St Petersburg - East
+12103024100,St Petersburg - East
+12103024302,St Petersburg - East
+12103024403,St Petersburg - East
+12103024406,St Petersburg - North
+12103025401,Clearwater - West
+12103026200,Clearwater - West
+12103026300,Clearwater - West
+12103024505,Pinellas Park
+12103027316,Palm Harbor
+12103027317,Palm Harbor
+12103024601,Pinellas Park
+12103024801,Pinellas Park
+12103024901,Pinellas Park
+12103025207,Largo
+12103024904,Pinellas Park
+12103025007,Seminole
+12103025009,Pinellas Park
+12103028200,South Pasadena
+12103025311,Largo
+12103028403,South Pasadena
+12103026502,Clearwater - West
+12103026914,Clearwater - West
+12103027107,Clearwater - West
+12103024908,Pinellas Park
+12103022101,St Petersburg - West
+12103024604,Pinellas Park
+12103024201,St Petersburg - East
+12103023502,St Petersburg - East
+12103021501,St Petersburg - Downtown
+12103028601,St Petersburg - Downtown
+12103024202,St Petersburg - East
+12103020109,St Petersburg - South
+12103020110,St Petersburg - South
+12105015101,Barlow
+12105015302,Barlow
+12105015900,Barlow
+12057000401,Tampa - Northwest
+12103027703,Seminole
+12103028103,South Pasadena
+12103024408,St Petersburg - East
+12057012212,Brandon
+12103022102,St Petersburg - West
+12105010502,Lakeland
+12105015701,Lake Wales
+12105010604,Lakeland
+12105011834,Lakeland
+12105010603,Lakeland
+12105011204,Lakeland
+12053041302,Spring Hill
+12053041305,Spring Hill
+12057011013,Tampa Palms - Pebble Creek
+12057011520,Citrus Park - Westchase
+12103027321,Oldsmar
+12103027801,Seminole
+12101030203,Port Richey
+12101031902,Land O' Lakes
+12101030202,Port Richey
+12057001001,Tampa - Northeast
+12057011708,Town 'n' Country
+12057014121,Apollo Beach - Ruskin
+12057014104,Apollo Beach - Ruskin
+12101031206,Port Richey
+12101031207,Port Richey
+12057011614,Town 'n' Country
+12103024804,Pinellas Park
+12103025417,Largo
+12103025505,Largo
+12103026101,Clearwater - West
+12103026912,Clearwater - West
+12103027210,Clearwater - West
+12103024512,Pinellas Park
+12103025418,Largo
+12103025419,Largo
+12103025020,Largo
+12103024519,St Petersburg - North
+12103024518,St Petersburg - North
+12103025421,Clearwater - East
+12103027329,Oldsmar
+12103027504,Tarpon Springs
+12103027328,Oldsmar
+12103026004,Clearwater - West
+12103026917,Clearwater - West
+12103025510,Largo
+12103025310,Largo
+12103025021,Largo
+12103027333,Oldsmar
+12103027330,Palm Harbor
+12103024603,Pinellas Park
+12103023501,St Petersburg - East
+12103024805,Pinellas Park
+12103021502,St Petersburg - Downtown
+12103027326,Oldsmar
+12103027327,Oldsmar
+12103028700,St Petersburg - Downtown
+12103020108,South Pasadena
+12103025122,Seminole
+12103025123,Seminole
+12103025209,Largo
+12103025307,Largo
+12103025413,Clearwater - West
+12103025412,Clearwater - West
+12103027704,Seminole
+12105012126,Lakeland
+12105011501,Lakeland
+12105011605,Lakeland
+12105011603,Lakeland
+12053040102,Brooksville
+12053040910,Brooksville
+12053041005,Spring Hill
+12053040101,Brooksville
+12053040602,Brooksville
+12053040502,Brooksville
+12103026821,Clearwater - East
+12103026913,Clearwater - West
+12105012304,Lakeland
+12105011836,Lakeland
+12053040802,Spring Hill
+12053040909,Spring Hill
+12053040911,Brooksville
+12053040501,Brooksville
+12053040908,Spring Hill
+12053041105,Spring Hill
+12103028004,South Pasadena
+12105011913,Lakeland
+12105011909,Lakeland
+12105011911,Lakeland
+12105011910,Lakeland
+12105012203,Lakeland
+12053041103,Spring Hill
+12053040906,Spring Hill
+12053040907,Spring Hill
+12053041003,Spring Hill
+12105012127,Lakeland
+12105012124,Lakeland
+12105012125,Lakeland
+12053041004,Spring Hill
+12053041501,Spring Hill
+12053041203,Spring Hill
+12053041304,Spring Hill
+12053040301,Brooksville
+12053040702,Spring Hill
+12105012303,Lakeland
+12105012506,Davenport
+12105014003,Winter Haven
+12053040801,Spring Hill
+12053041006,Spring Hill
+12053041104,Spring Hill
+12053041204,Spring Hill
+12105015801,Barlow
+12105011908,Lakeland
+12105010501,Lakeland
+12105010401,Lakeland
+12105012128,Lakeland
+12103020208,St Petersburg - South
+12103024409,St Petersburg - East
+12103024410,St Petersburg - North
+12105011912,Lakeland
+12105016400,Lakeland
+12105015102,Barlow
+12053040400,Brooksville
+12101031703,Port Richey
+12101031706,New Port Richey
+12101031704,New Port Richey
+12101031705,New Port Richey
+12101032700,Dade City
+12057013412,Riverview
+12101032601,Dade City
+12101031208,Port Richey
+12101031602,New Port Richey
+12101031901,Land O' Lakes
+12101031903,Land O' Lakes
+12101032011,Wesley Chapel
+12057013410,Riverview
+12057013310,Brandon
+12057013411,Riverview
+12101032012,Wesley Chapel
+12057013802,Riverview
+12101031805,Port Richey
+12101031806,Port Richey
+12101031809,Land O' Lakes
+12101032008,Land O' Lakes
+12101030101,Port Richey
+12101031009,Port Richey
+12101032106,Wesley Chapel
+12101032111,Wesley Chapel
+12057013413,Riverview
+12057013918,Riverview
+12057013807,Riverview
+12057013414,Riverview
+12057013923,Riverview
+12057014118,Apollo Beach - Ruskin
+12101032013,Land O' Lakes
+12101032014,Land O' Lakes
+12101032005,Wesley Chapel
+12101032110,Wesley Chapel
+12101032112,Wesley Chapel
+12101032113,Wesley Chapel
+12101032902,Zephyr Hills
+12057014117,Apollo Beach - Ruskin
+12057014007,Sun City Center
+12057014122,Apollo Beach - Ruskin
+12057014011,Sun City Center
+12057014010,Sun City Center
+12057014009,Sun City Center
+12057014014,Sun City Center
+12101032104,Wesley Chapel
+12101032802,Zephyr Hills
+12101032804,Zephyr Hills
+12101032901,Zephyr Hills
+12057013703,Palm River-Clair Mel
+12101030102,Port Richey
+12101030205,Port Richey
+12101030303,New Port Richey
+12057013914,Sun City Center
+12057014012,Sun City Center
+12057013916,Riverview
+12057013915,Riverview
+12057014013,Sun City Center
+12057000101,Tampa - Northeast
+12057010809,Temple Terrace
+12101033007,Zephyr Hills
+12101033012,Zephyr Hills
+12101030405,New Port Richey
+12101030406,New Port Richey
+12101030407,New Port Richey
+12101030410,New Port Richey
+12101030411,New Port Richey
+12057012503,Plant City
+12057010817,University
+12057012209,Brandon
+12057012213,Brandon
+12057013317,Brandon
+12057013913,Sun City Center
+12057014008,Sun City Center
+12057013917,Riverview
+12057013922,Riverview
+12053040201,Brooksville
+12053040601,Brooksville
+12053041303,Spring Hill
+12053040303,Brooksville
+12053040302,Brooksville
+12101031005,Port Richey
+12053041106,Spring Hill
+12053040202,Brooksville
+12103024412,St Petersburg - North
+12103024413,St Petersburg - North
+12103024514,Largo
+12103024510,Largo
+12105016001,Barlow
+12105016002,Barlow
+12105011832,Lakeland
+12105013702,Winter Haven
+12103024702,Pinellas Park
+12103024803,Pinellas Park
+12103025017,Pinellas Park
+12103025018,Pinellas Park
+12103025019,Pinellas Park
+12103025414,Largo
+12103025415,Largo
+12103025416,Largo
+12103026820,Clearwater - East
+12103026818,Clearwater - East
+12103026819,Clearwater - East
+12103027323,Oldsmar
+12103027324,Oldsmar
+12103027325,Oldsmar
+12103027603,Largo
+12103027606,Largo
+12101030412,New Port Richey
+12101030501,New Port Richey
+12101030601,New Port Richey
+12101030602,New Port Richey
+12057011524,Lake Magdalene - Northdale
+12057011109,Lake Magdalene - Northdale
+12057005101,Tampa - Downtown
+12057007300,Tampa - Sun Bay South
+12057013806,Riverview
+12057006900,Tampa - Sun Bay South
+12105015600,Lake Wales
+12105015702,Lake Wales
+12105011502,Lakeland
+12105011604,Lakeland
+12105012306,Lakeland
+12105012305,Lakeland
+12105012307,Lakeland
+12105012802,Winter Haven
+12105012411,Davenport
+12105014804,Lakeland
+12105012502,Davenport
+12105012803,Winter Haven
+12105014124,Lake Wales
+12105013002,Winter Haven
+12105013001,Winter Haven
+12105012407,Davenport
+12105014104,Davenport
+12105014803,Lakeland
+12105014006,Winter Haven
+12101031411,New Port Richey
+12101031104,Port Richey
+12101030906,New Port Richey
+12101031412,New Port Richey
+12101032805,Zephyr Hills
+12101031103,Port Richey
+12101030304,New Port Richey
+12101031410,New Port Richey
+12101032905,Zephyr Hills
+12105012404,Davenport
+12105015802,Barlow
+12105012408,Davenport
+12105011606,Lakeland
+12103020209,St Petersburg - South
+12057010814,University
+12105013103,Lakeland
+12105013801,Winter Haven
+12105014001,Winter Haven
+12105014202,Lake Wales
+12105015301,Barlow
+12101032402,Dade City
+12101030905,New Port Richey
+12101031010,Port Richey
+12057002600,Tampa - Airport
+12101031011,Port Richey
+12101031013,Port Richey
+12101031014,Port Richey
+12101031203,Port Richey
+12101031204,Port Richey
+12057980300,Tampa Palms - Pebble Creek
+12057011304,Carrollwood
+12057980700,Lake Magdalene - Northdale
+12057000202,Tampa - Northeast
+12057000201,Tampa - Northeast
+12103020206,St Petersburg - South
+12103024701,Pinellas Park
+12103025208,Largo
+12103025604,Largo
+12103024703,Pinellas Park
+12103025603,Largo
+12105012601,Davenport
+12057010816,University
+12057010815,University
+12057000602,Tampa - Northwest
+12057011303,Carrollwood
+12057000902,Tampa - Northeast
+12057010502,East Lake-Orient Park
+12057010501,East Lake-Orient Park
+12057980600,Tampa - Airport
+12057011523,Lake Magdalene - Northdale
+12057011521,Lake Magdalene - Northdale
+12057005302,Tampa - Historic
+12057013604,Palm River-Clair Mel
+12057013316,Brandon
+12057012211,Brandon
+12057005301,Tampa - Downtown
+12057006101,Tampa - South Tampa
+12057006802,Tampa - South Tampa
+12057006700,Tampa - South Tampa
+12057006501,Tampa - South Tampa
+12057007103,Tampa - Sun Bay South
+12101030409,New Port Richey
+12101032006,Wesley Chapel
+12101031302,Port Richey
+12101032602,Dade City
+12101032103,Wesley Chapel
+12101031701,New Port Richey
+12101031808,Port Richey
+12101032007,Land O' Lakes
+12101032105,Wesley Chapel
+12101032108,Wesley Chapel
+12101033102,Zephyr Hills
+12101031406,New Port Richey
+12101033005,Zephyr Hills
+12101033006,Zephyr Hills
+12057007200,Tampa - Sun Bay South
+12057007002,Tampa - Sun Bay South
+12057007001,Tampa - Sun Bay South
+12101030408,New Port Richey
+12101030502,New Port Richey
+12101031012,Port Richey
+12101031407,New Port Richey
+12101031505,New Port Richey
+12101031807,Port Richey
+12101032109,Wesley Chapel
+12101032401,Dade City
+12057010211,Tampa Palms - Pebble Creek
+12101033009,Zephyr Hills
+12101033010,Zephyr Hills
+12101033011,Zephyr Hills
+12101033014,Zephyr Hills
+12057010212,Tampa Palms - Pebble Creek
+12057010210,Tampa Palms - Pebble Creek
+12057011016,Tampa Palms - Pebble Creek
+12057011522,Lake Magdalene - Northdale
+12057011418,Carrollwood
+12057005401,Tampa - Downtown
+12057006400,Tampa - South Tampa
+12101030204,Port Richey
+12101031301,Port Richey
+12101031506,New Port Richey
+12101031601,New Port Richey
+12101031603,Land O' Lakes
+12057011417,Carrollwood
+12057011518,Citrus Park - Westchase
+12057011519,Citrus Park - Westchase
+12057011615,Town 'n' Country
+12101031205,Port Richey
+12101031604,Land O' Lakes
+12101031804,Port Richey
+12101032010,Land O' Lakes
+12101032107,Wesley Chapel
+12057012108,Brandon
+12057012107,Brandon
+12057012210,Brandon
+12057013319,Brandon
+12057013315,Brandon
+12057012504,Plant City
+12057013322,Brandon
+12101031507,New Port Richey
+12101031508,New Port Richey
+12101031605,Land O' Lakes
+12101031707,New Port Richey
+12101033008,Zephyr Hills
+12101033013,Zephyr Hills
+12101033101,Zephyr Hills
+12101032009,Land O' Lakes
+12053041502,Spring Hill
+12057011205,Lake Magdalene - Northdale
+12057013206,Brandon
+12057001600,Tampa - Northwest
+12057011802,Egypt Lake-Leto
+12057010701,Temple Terrace
+12057010805,University
+12057010808,University
+12057011010,University
+12057012403,Plant City
+12057010702,Temple Terrace
+12057012001,Tampa - East
+12057012002,Tampa - East
+12057012103,East Lake-Orient Park
+12057012206,Brandon
+12057010900,University
+12057011003,University
+12057011005,Lake Magdalene - Northdale
+12057011006,Lake Magdalene - Northdale
+12057011008,Tampa Palms - Pebble Creek
+12057012208,Brandon
+12057012301,Brandon
+12057012303,Brandon
+12057012401,Brandon
+12057012207,Brandon
+12057012402,Brandon
+12057012800,Plant City
+12057012501,Plant City
+12057012600,Plant City
+12057011103,Lake Magdalene - Northdale
+12057011106,Lake Magdalene - Northdale
+12057011107,Lake Magdalene - Northdale
+12057011108,Lake Magdalene - Northdale
+12057011204,Lake Magdalene - Northdale
+12057011206,Lake Magdalene - Northdale
+12057011301,Lake Magdalene - Northdale
+12057012701,Plant City
+12057012702,Plant City
+12105012900,Winter Haven
+12105013400,Winter Haven
+12057010810,Temple Terrace
+12057010213,Thonotosassa
+12057010811,Temple Terrace
+12057001002,Tampa - Northeast
+12057012900,Plant City
+12057013001,Plant City
+12057013002,Plant City
+12057013003,Plant City
+12057013004,Plant City
+12057013409,Riverview
+12105980000,Davenport
+12103020302,St Petersburg - South
+12105012001,Lakeland
+12105011721,Lakeland
+12105013802,Winter Haven
+12105015200,Barlow
+12105015401,Lake Wales
+12105013101,Winter Haven
+12105013902,Winter Haven
+12105011732,Lakeland
+12105012004,Lakeland
+12105014701,Winter Haven
+12105014121,Davenport
+12105015000,Barlow
+12105014600,Winter Haven
+12105014203,Lake Wales
+12105014802,Lakeland
+12105011902,Lakeland
+12105010601,Lakeland
+12105010701,Lakeland
+12105010702,Lakeland
+12105010800,Lakeland
+12105011000,Lakeland
+12105011704,Lakeland
+12105011722,Lakeland
+12105011731,Lakeland
+12105013901,Winter Haven
+12105014123,Winter Haven
+12105014301,Lake Wales
+12105014502,Winter Haven
+12105015500,Lake Wales
+12105016100,Barlow
+12105014201,Lake Wales
+12105013500,Winter Haven
+12105013102,Winter Haven
+12105012602,Davenport
+12105010300,Lakeland
+12105010900,Lakeland
+12105011821,Lakeland
+12105011822,Lakeland
+12105011901,Lakeland
+12105012002,Lakeland
+12105012003,Lakeland
+12105012113,Lakeland
+12057011905,Egypt Lake-Leto
+12105013200,Winter Haven
+12105013300,Winter Haven
+12105013701,Winter Haven
+12105011100,Lakeland
+12105011202,Lakeland
+12105011300,Lakeland
+12105011400,Lakeland
+12103020202,St Petersburg - South
